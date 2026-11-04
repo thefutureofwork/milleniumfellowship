@@ -8,6 +8,29 @@ Newest changes at the top. Times are Shanghai time (UTC+8).
 
 ---
 
+## 2026-11-04 (afternoon)
+
+### Added
+- **Home > Fellowship Showcase:** new section with a date card. Thursday, November 12, about 5:30 to 7:30 pm, mixed-media project presentations hosted by the Campus Co-Directors, remarks from faculty advisor Katherine Tosi. Venue to come from the Co-Directors. "Ask about attending" emails both Co-Directors. (14:50)
+- **Home > Class of 2026 photo band:** wide cohort photo under the hero, captioned "Our fourth cohort in a row." Loads `cohort-2026.jpg` from the repo root and stays hidden until that file is uploaded. (14:50)
+- **Home > Class of 2025 · worldwide:** impact band with MCN's global figures: 4,869 fellows, 2,550 projects, 389,833 hours, 1,259,098 lives positively impacted. Labeled as global, not NYU Shanghai's. (14:50)
+- **Class of 2026 > Projects by SDG:** eight project cards (UniCare Bridge, Beyond the Molecule, Inside Out, EverSafe, Democratized Platform for University Information, The Investment Divide, Concept Change Towards Stray Cats, Students Against Poaching Initiative), each tagged and linked to its UN goal page (SDG 3, 5, 10, 11, 15). Projects only, no names. (14:50)
+- **Class of 2026 > Think in systems:** Waters Center for Systems Thinking section with three starter Habits of a Systems Thinker, links to the free Thinking Tools Studio courses and Habits cards, and the Logic Model Worksheet. (14:50)
+- **Class of 2026 > Checklist:** item 10, "Present at the Fellowship Showcase" (Nov 12). New checkbox id `c10` so saved progress is kept. (14:50)
+- **Class of 2026 > Tools and Links:** Thinking Tools Studio added to both. (14:50)
+- `style.css`: styles for the photo band, Showcase card, four-across impact numbers, project cards, SDG tags and Habits cards. (14:50)
+
+### Changed
+- **Home > Hero:** last funnel line now reads "Ours sent 23 fellows." Lede notes four years running. Main button now jumps to the Showcase. 2023 photo caption now reads "Where it started." (14:50)
+- **Home > Facts:** "8–20+ typical cohort" replaced with 23 NYU Shanghai fellows and 4th consecutive year; added 60 countries and territories. (14:50)
+- **Both timelines:** "Project report" stop replaced with "Fellowship Showcase, Nov 12". The project report stays on the checklist. Intro line and screen-reader label updated. (14:50)
+- **Class of 2026 > Header:** "You're one of 23 NYU Shanghai fellows, our fourth cohort in a row." Added a Showcase button. (14:50)
+- **Class of 2026 > SDG Workshop panel:** moved from "Coming up" to "Done · thank you". The violet "Coming up" panel is now the Showcase. Needs-survey checklist item marked Done. (14:50)
+- **Class of 2026 > Resources:** ARC entry now says rehearse your Showcase presentation; safety box now covers the Showcase. (14:50)
+
+### Checked
+- No student names on any updated page. The Campus Co-Directors still appear by email only.
+
 ## 2026-09-30 (night)
 
 ### Removed
@@ -59,6 +82,10 @@ Newest changes at the top. Times are Shanghai time (UTC+8).
 ---
 
 ## Open items
+- **Cohort photo:** upload `cohort-2026.jpg` to the repo root. The Home photo band appears automatically once it's there.
+- **Showcase venue:** add the room once the Campus Co-Directors confirm it.
+- **Projects list:** 8 projects listed from 10 fellow profiles, but the cohort has 23 fellows. Add the rest as profiles go up.
+- **Thinking Tools Studio:** confirm it loads in China without a VPN.
 - **Club tags:** update the "This fall" tags once Student Involvement confirms which clubs are active.
 
 ## House rules for this site
