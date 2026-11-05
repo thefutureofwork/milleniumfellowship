@@ -8,6 +8,14 @@ Newest changes at the top. Times are Shanghai time (UTC+8).
 
 ---
 
+## 2026-11-05 (afternoon)
+
+### Added
+- **Home > Fellowship Showcase:** third button, "Faculty remarks: the slides", opens Katherine Tosi's Showcase deck *The Change We Create* (ClickUp) in a new tab. (14:35)
+
+### Checked
+- The deck names no students. Projects appear by title only.
+
 ## 2026-11-04 (afternoon)
 
 ### Added
@@ -82,6 +90,7 @@ Newest changes at the top. Times are Shanghai time (UTC+8).
 ---
 
 ## Open items
+- **Faculty remarks slides:** the Showcase button opens the deck in ClickUp. Turn on public sharing for the deck so fellows without a ClickUp login can open it.
 - **Cohort photo:** upload `cohort-2026.jpg` to the repo root. The Home photo band appears automatically once it's there.
 - **Showcase venue:** add the room once the Campus Co-Directors confirm it.
 - **Projects list:** 8 projects listed from 10 fellow profiles, but the cohort has 23 fellows. Add the rest as profiles go up.
