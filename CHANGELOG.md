@@ -13,6 +13,10 @@ Newest changes at the top. Times are Shanghai time (UTC+8).
 ### Added
 - **Home > Fellowship Showcase:** third button, "Faculty remarks: the slides", opens Katherine Tosi's Showcase deck *The Change We Create* (ClickUp) in a new tab. (14:35)
 
+### Changed
+- **Home > Fellowship Showcase:** the slides button stays hidden until Thursday, November 12, 19:30, after the Showcase. A small script on the page reveals it automatically. The deck stays private until then. (14:45)
+- **Home > Fellowship Showcase > Where:** venue confirmed as E303, NYU Shanghai. Replaces "Venue comes from the Campus Co-Directors." (14:45)
+
 ### Checked
 - The deck names no students. Projects appear by title only.
 
@@ -90,9 +94,8 @@ Newest changes at the top. Times are Shanghai time (UTC+8).
 ---
 
 ## Open items
-- **Faculty remarks slides:** the Showcase button opens the deck in ClickUp. Turn on public sharing for the deck so fellows without a ClickUp login can open it.
+- **Faculty remarks slides (Nov 12, after the Showcase):** turn on public sharing for the deck in ClickUp. The button appears on its own at 19:30 but only works for fellows once the deck is public.
 - **Cohort photo:** upload `cohort-2026.jpg` to the repo root. The Home photo band appears automatically once it's there.
-- **Showcase venue:** add the room once the Campus Co-Directors confirm it.
 - **Projects list:** 8 projects listed from 10 fellow profiles, but the cohort has 23 fellows. Add the rest as profiles go up.
 - **Thinking Tools Studio:** confirm it loads in China without a VPN.
 - **Club tags:** update the "This fall" tags once Student Involvement confirms which clubs are active.
