@@ -8,6 +8,16 @@ Newest changes at the top. Times are Shanghai time (UTC+8).
 
 ---
 
+## 2026-11-05 (night)
+
+### Changed
+- **Apply:** Class of 2027 applications are open. Header label, intro and main button ("Apply now · Class of 2027", links to millenniumfellows.org/apply) updated, with the priority deadline, Monday, November 30, 2026. Replaces "Register interest for 2027". (21:10)
+- **Apply > Four steps:** step 1 is now "Apply to Round 1 by November 30" (rolling review). Step 3 notes what Round 2 asks for; step 4 adds the one academic or professional recommendation. (21:10)
+- **Apply > FAQ > When can I apply?:** rewritten. Was "Applications for the Class of 2026 are closed." Now says applications are open, explains Round 1 and Round 2, and gives the Nov 30 priority deadline. Opens by default. (21:10)
+
+### Checked
+- Dates and round details taken from millenniumfellows.org/apply on Nov 5, 2026.
+
 ## 2026-11-05 (afternoon)
 
 ### Added
@@ -99,6 +109,7 @@ Newest changes at the top. Times are Shanghai time (UTC+8).
 - **Projects list:** 8 projects listed from 10 fellow profiles, but the cohort has 23 fellows. Add the rest as profiles go up.
 - **Thinking Tools Studio:** confirm it loads in China without a VPN.
 - **Club tags:** update the "This fall" tags once Student Involvement confirms which clubs are active.
+- **After Nov 30:** check millenniumfellows.org/apply for the next priority deadline and update the Apply page.
 
 ## House rules for this site
 - Never name students. Campus Directors appear by email only.
